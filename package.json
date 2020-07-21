@@ -1,0 +1,14 @@
+{
+    "name": "bot_discord",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {},
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@discordjs/opus": "^0.3.2",
+        "discord.js": "^12.2.0"
+    }
+}
